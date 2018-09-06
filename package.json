@@ -1,0 +1,14 @@
+{
+  "name": "ajax-demo",
+  "version": "1.0.0",
+  "description": "AJAX Intro 9-6-18",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christopher Brenberg",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
